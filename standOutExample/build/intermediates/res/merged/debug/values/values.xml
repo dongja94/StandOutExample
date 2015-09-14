@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Android/Library/android-education-project/StandOutExample1/standOutExample/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">StandOut Example</string>
+    <!-- From: file:/C:/Android/Library/android-education-project/StandOutExample1/standOutExample/build/intermediates/exploded-aar/StandOutExample1/standOut/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="close">Close</string>
+    <string name="corner">Corner</string>
+    <string name="hide">Hide</string>
+    <string name="maximize">Maximize</string>
+    <string name="window_icon">Window icon</string>
+</resources>
